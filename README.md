@@ -134,9 +134,6 @@ If manual assembly is required (prototyping or small runs):
 - All components are within specified tolerances
 - System does not encounter sudden load transients
 
-## License
-[Specify your license information here]
 
 ## Contact
 Ammar J Mahmood
-[Contact Information]
